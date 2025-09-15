@@ -1,6 +1,6 @@
 # EDA-and-Classification-Iris-Titanic
 Exploratory Data Analysis and Classification Models on Iris and Titanic datasets using Python, Pandas, and Scikit-Learn.
-**feature engineering**, and **classification model tuning** on two popular datasets: 
+feature engineering, and classification model tuning** on two popular datasets: 
 **Iris** and **Titanic**.
 
 ## Project Overview
